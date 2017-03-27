@@ -1,0 +1,3 @@
+# man man
+man_MANS = myfirstman
+

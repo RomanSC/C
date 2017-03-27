@@ -1,0 +1,2 @@
+# scripts makefile
+bin_SCRIPTS = myfirstscript.sh

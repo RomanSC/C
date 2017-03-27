@@ -1,0 +1,10 @@
+# Internal plugin
+# https://wiki.xfce.org/dev/howto/panel_plugins
+X-XFCE-Module = myfirstplugin
+X-XFCE-Module = /usr/lib/xfce4/panel-plugins
+
+# If the plugin should only allow
+# one instance to be run at a time,
+# this should be set to true
+# by default it's false:
+# X-XFCE-Unique = true

@@ -1,0 +1,9 @@
+# myfirstplugin makefile
+
+# flags to pass to gcc, the C compiler
+CFLAGS = --pedantic -Wall -std=c99 -02
+# LDFLAGS =
+
+# this list the binaries to produce
+bin_PROGRAMS = myfirstplugin
+myfirstplugin_SOURCES = myfirstplugin.c
